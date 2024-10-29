@@ -2,8 +2,7 @@
 title: "ASADI: Accelerating Sparse Attention using Diagonal-based In-situ Computing"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2024-06-02-ASADI
 date: 2024-06-02
 venue: 'HPCA 2024'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
