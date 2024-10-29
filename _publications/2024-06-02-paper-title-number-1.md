@@ -1,7 +1,7 @@
 ---
 title: "ASADI: Accelerating Sparse Attention using Diagonal-based In-situ Computing"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-06-02-ASADI
 date: 2024-06-02
 venue: 'HPCA'
