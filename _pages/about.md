@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-From Feb 2023 tile now, I'm a Postdoctoral Research Fellow in [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), supervised by Prof. [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/). In Dec 2022, I obtained my Ph.D. degree from [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/), advised by Prof. [Hai Jin](https://www.linkedin.com/in/jinhust/). In Jun 2017, I obtained my B.E. degree from [School of Software Enginerring](http://english.sse.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/).
+From Feb 2023 tile now, I'm a Postdoctoral Research Fellow in [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), supervised by Prof. [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/). In Dec 2022, I obtained my Ph.D. degree from [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/), advised by Prof. [Hai Jin](https://www.linkedin.com/in/jinhust/). In Jun 2017, I obtained my B.E. degree from [School of Software Engineering](http://english.sse.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/).
 
 My current research interests include computer architecture, emerging non-volatile memory, and processing in memory.   
 
