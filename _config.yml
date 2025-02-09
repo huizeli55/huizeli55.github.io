@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Huize Li / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Huize Li"
-description              : &description "Postdoc from NUS"
+description              : &description "Postdoc from UCF"
 url                      : https://huizeli55.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "lhz.png"
   name             : "Huize Li"
   pronouns         : # example: "she/her"  
-  bio              : "CS Ph.D., NUS postdoc"
-  location         : "Singapore"
-  employer         : "National University of Singapore"
+  bio              : "CS Ph.D., UCF postdoc"
+  location         : "Orlando, FL, USA"
+  employer         : "University of Central Florida"
   uri              : # URL
-  email            : "huizeli@nus.edu.sg" 
+  email            : "huize.li@ucf.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
