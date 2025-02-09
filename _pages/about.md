@@ -14,4 +14,4 @@ My current research interests include computer architecture, emerging non-volati
 
 You can find my CV here: [Huize's Curriculum Vitae](../assets/Academic_CV_Huize.pdf).
 
-[Email: huizeli@nus.edu.sg](mailto:huizeli@nus.edu.sg) / [Google Scholar](https://scholar.google.com/citations?user=1gJ5xAsAAAAJ&hl=en) / [DBLP](https://dblp.org/pid/278/8981.html).
+[Email: huize.li@ucf.edu](mailto:huize.li@ucf.edu) / [Google Scholar](https://scholar.google.com/citations?user=1gJ5xAsAAAAJ&hl=en) / [DBLP](https://dblp.org/pid/278/8981.html).
